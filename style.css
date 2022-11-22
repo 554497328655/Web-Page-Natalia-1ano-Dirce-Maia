@@ -1,86 +1,41 @@
-html {
-    width: 980px;
-    margin: auto;
-}
-head { text-align: end;
-    font-size: 70px;
-}
-    
-}
-body {
-    width: 800px;
-    margin: auto;
-}
-
-
-h1 {
-    text-align: center;
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.imagem {
+header {
     width: 700px;
     margin: auto;
-}
-
-.inicio {
-    width: 700px;
-}
-
-p {
-    width: 700px;
-    margin: auto;
-    font-size: 20px;
-    text-align: center;
-    border: 3px solid pink;
-}
-
-h2 {
-    text-align: center;
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-h3 {
-    text-align: center;
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.menu {
-    width: 750px;
-    margin: auto;
-}
-
-.menu li h1 {
-    font-size: 50px;
-    
-}
-
-ul li img {
-    width: 750px;
-    margin: auto;
-}
-
-h4 {
-    text-align: center;
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-}
- 
-h5 {
-    text-align: center;
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.fim {
-    width: 700px;
-    margin: auto;
-
 }
 
 img {
-    width: 700px ;
+    width: 700px;
+    padding:7%;
+}
+
+.titulo {
+    width: 235px;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.titulo  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    background: #cccccc;
+    text-align: center;
+}
+
+main {
+    width: 700px; 
+    margin: auto;  
+}
+
+h1 {
+    box-shadow: 1px 1px 1px 1px;
+    background: #cccccc;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    width: 700px;
+    margin: auto;
+    margin-top: 50px;
 }
